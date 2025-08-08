@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d304e43d0da3b7d4",
+        "id": "02873e0cb5dbf1be",
         "type": "tabs",
         "children": [
           {
-            "id": "61525c9c553727dc",
+            "id": "f5228da2e1060227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "New tab"
             }
           }
         ]
@@ -167,12 +153,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "49a8871a2de3444f",
+            "id": "aa600594383435a2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -198,46 +184,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61525c9c553727dc",
+  "active": "f5228da2e1060227",
   "lastOpenFiles": [
-    "Hello.md",
-    "02-Chemistry/Index.md",
-    "Just testing.md",
-    "TESTING NOTE.md",
-    "05-Arabic/Summary",
-    "05-Arabic/Practice Problems",
-    "05-Arabic/Lecture Notes",
-    "05-Arabic/Exams & Revision",
-    "05-Arabic/Concepts",
-    "04-English/Summary",
-    "04-English/Practice Problems",
-    "04-English/Lecture Notes",
-    "04-English/Exams & Revision",
-    "04-English/Concepts",
-    "01-Math/Algebra.md",
-    "05-Arabic/Index.md",
-    "08-Progress Tracker/Daily Log.md",
-    "08-Progress Tracker/Subject Progress.md",
-    "06-Templates/Lecture Notes Template.md",
-    "06-Templates/Topic Note Template.md",
-    "00-Dashboard/Main.md",
-    "01-Math/Statistics.md",
-    "01-Math/Trignometry.md",
-    "01-Math/Calculus.md",
-    "04-English/Untitled.md",
-    "04-English/Index.md",
-    "03-Physics/Index.md",
-    "01-Math/Index.md",
-    "Revision Schedule.md",
-    "Study Plan.md",
-    "testing.md",
-    "Untitled 1.md",
-    "Subjects/Untitled.md",
-    "create a link.md",
-    "test.canvas",
-    "Welcome.md"
+    "اللغة العربية/النحو/03-الافعال/مضارع.md",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/روت_مخفوضات_الاسماء.md",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/المفعول به.md",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/روت_منصوبات_الاسماء.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/اسم كان واخواتها.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/الفاعل.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/المبتدأ والخبر.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/روت_مرفوعات_الاسماء.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/نائب الفاعل.md",
+    "خبر إن وأخواتها/index.md",
+    "خبر إن وأخواتها",
+    "اللغة العربية/النحو/03-الافعال/أمر.md",
+    "اللغة العربية/النحو/03-الافعال/روت_الافعال.md",
+    "اللغة العربية/النحو/03-الافعال/ماضي.md",
+    "ماضي/index.md",
+    "ماضي",
+    "اللغة العربية/النحو/02-الاعراب/جزم.md",
+    "اللغة العربية/النحو/02-الاعراب/جر.md",
+    "اللغة العربية/النحو/02-الاعراب/نصب.md",
+    "اللغة العربية/النحو/02-الاعراب/رفع.md",
+    "اللغة العربية/النحو/02-الاعراب/روت_الاعراب.md",
+    "اللغة العربية/النحو/01-اقسام الكلام/الحرف.md",
+    "اللغة العربية/النحو/01-اقسام الكلام/الفعل.md",
+    "اللغة العربية/النحو/01-اقسام الكلام/روت_اقسام_الكلام.md",
+    "اللغة العربية/النحو/00-مقدمة/روت_مقدمة.md",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالحرف.md",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالتبعية.md",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالإضافة.md",
+    "اللغة العربية/النحو/04-مرفوعات الاسماء/Untitled.canvas",
+    "01-Subjects/05-Arabic/النحو/06-مخفوضات الاسماء/Untitled.canvas",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالتبعية",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالإضافة",
+    "اللغة العربية/النحو/06-مخفوضات الاسماء/بالحرف",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/التابع للمنصوب",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/اسم إن واخواتها",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/خبر كان واخواتها",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/المفعول معه",
+    "اللغة العربية/النحو/05-منصوبات الاسماء/المفعول له",
+    "test.canvas"
   ]
 }
